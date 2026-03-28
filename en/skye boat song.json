@@ -1,0 +1,839 @@
+{
+  "title": "Skye Boat Song",
+  "key": "skye boat song",
+  "time": "6/8",
+  "isChristmas": false,
+  "published": true,
+  "tags": [
+    "Folk"
+  ],
+  "bpm": 100,
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "Speed,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "bon -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "eighth",
+          "lyrics": "nie"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "boat,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "sixteenth",
+          "lyrics": "like"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "sixteenth",
+          "lyrics": "a"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedEighth",
+          "lyrics": "bird"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "on"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "dottedFourth",
+          "lyrics": "wing,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "On -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "ward,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "sai -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "lors"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedHalf",
+          "lyrics": "cry;"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "Car -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "ry"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "lad"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "that’s"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedEighth",
+          "lyrics": "born"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "to"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "be"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "dottedFourth",
+          "lyrics": "King"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "O -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "ver"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "sea"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "to"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedFourth",
+          "lyrics": "Skye."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "dottedFourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedEighth",
+          "lyrics": "Loud"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "winds"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedFourth",
+          "lyrics": "howl,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedEighth",
+          "lyrics": "loud"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "waves"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedFourth",
+          "lyrics": "roar,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "Thun -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "der -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "clouds"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "rend"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "dottedHalf",
+          "lyrics": "air;"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedEighth",
+          "lyrics": "Baf -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "sixteenth",
+          "lyrics": "fled,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "our"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedFourth",
+          "lyrics": "foes"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedEighth",
+          "lyrics": "stand"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "on"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedFourth",
+          "lyrics": "shore,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "Fol -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "low"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "they"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "will"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "not"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "dottedFourth",
+          "lyrics": "dare."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "dottedFourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "Speed,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "bon -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "eighth",
+          "lyrics": "nie"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "boat,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "sixteenth",
+          "lyrics": "like"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "sixteenth",
+          "lyrics": "a"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedEighth",
+          "lyrics": "bird"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "on"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "dottedFourth",
+          "lyrics": "wing,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "On -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "ward,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "sai -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "lors"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedHalf",
+          "lyrics": "cry;"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "Car -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "ry"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "lad"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "that's"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedEighth",
+          "lyrics": "born"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "to"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "be"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "dottedFourth",
+          "lyrics": "king"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "O -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "ver"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "sea"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "to"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedFourth",
+          "lyrics": "Skye."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "title": "Red River Valley",
+  "key": "red river valley",
+  "time": "4/4",
+  "isChristmas": false,
+  "published": true,
+  "tags": [
+    "Folk"
+  ],
+  "bpm": 100,
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "From"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "this"
+        }
+      ],
+      "endsBar": true
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "half",
+          "lyrics": "val -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "ley"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "they"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "half",
+          "lyrics": "say"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "you"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "are"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "go -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedHalf",
+          "lyrics": "ing."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "We"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "will"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "half",
+          "lyrics": "miss"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "your"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "bright"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "half",
+          "lyrics": "eyes"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "fourth",
+          "lyrics": "and"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "sweet"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "full",
+          "lyrics": "smile."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "For"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "fourth",
+          "lyrics": "they"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "half",
+          "lyrics": "say"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "you"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "are"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "half",
+          "lyrics": "tak -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "ing"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "sun -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "dottedHalf",
+          "lyrics": "shine,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "That"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "has"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "half",
+          "lyrics": "bright -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "fourth",
+          "lyrics": "ened"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "our"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "half",
+          "lyrics": "path -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "way"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "a -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedHalf",
+          "lyrics": "while."
+        }
+      ]
+    }
+  ]
+}

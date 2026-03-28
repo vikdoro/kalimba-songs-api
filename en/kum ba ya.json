@@ -1,0 +1,285 @@
+{
+  "title": "Kum Ba Ya",
+  "key": "kum ba ya",
+  "time": "3/4",
+  "isChristmas": false,
+  "published": true,
+  "bpm": 100,
+  "tags": [
+    "Folk",
+    "Easy"
+  ],
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "eighth",
+          "lyrics": "Kum"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth",
+          "lyrics": "ba"
+        }
+      ],
+      "endsBar": true
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "yah,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "my"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "Lord,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "kum"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "ba"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "half",
+          "lyrics": "ya."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "eighth",
+          "lyrics": "Kum"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth",
+          "lyrics": "ba"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "yah,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "my"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "Lord,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth",
+          "lyrics": "kum"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth",
+          "lyrics": "ba"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "half",
+          "lyrics": "ya."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "eighth",
+          "lyrics": "Kum"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth",
+          "lyrics": "ba"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "yah,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "my"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "Lord,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "kum"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "ba"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "half",
+          "lyrics": "ya."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "fourth",
+          "lyrics": "Oh"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth",
+          "lyrics": "Lord,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "dottedFourth",
+          "lyrics": "_"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "eighth",
+          "lyrics": "kum"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "eighth",
+          "lyrics": "ba"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "half",
+          "lyrics": "ya."
+        }
+      ]
+    }
+  ]
+}
