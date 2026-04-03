@@ -1,0 +1,777 @@
+{
+  "title": "Battle Hymn of the Republic",
+  "key": "battle-hymn-of-the-republic",
+  "time": "4/4",
+  "isChristmas": false,
+  "published": true,
+  "bpm": 85,
+  "phrases": [
+    3,
+    6,
+    11,
+    13,
+    18,
+    21,
+    25,
+    28,
+    31,
+    36,
+    41,
+    43,
+    45,
+    49,
+    54,
+    57,
+    62,
+    65,
+    70,
+    73,
+    82
+  ],
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "eighth",
+          "lyrics": "Mine"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "eyes"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "have"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "seen"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "dottedEighth",
+          "lyrics": "glo -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "ry"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "Of"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedEighth",
+          "lyrics": "com -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "ing"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedEighth",
+          "lyrics": "of"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "Lord."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "He"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "sixteenth",
+          "lyrics": "is"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "dottedEighth",
+          "lyrics": "tram -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "pling"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "dottedEighth",
+          "lyrics": "out"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "vin -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "sixteenth",
+          "lyrics": "tage"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "Where"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "grapes"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "of"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "wrath"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "sixteenth",
+          "lyrics": "are"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "stored."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "He"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "has"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "loosed"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedEighth",
+          "lyrics": "fate -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "sixteenth",
+          "lyrics": "ful"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "dottedEighth",
+          "lyrics": "light -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "ning"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "Of"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "his"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedEighth",
+          "lyrics": "ter -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "sixteenth",
+          "lyrics": "ri -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedEighth",
+          "lyrics": "ble"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "swift"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "sword."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "His"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "truth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "is"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "march -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "fourth",
+          "lyrics": "ing"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedHalf",
+          "lyrics": "on."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedFourth",
+          "lyrics": "Glo -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth",
+          "lyrics": "ry,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "dottedEighth",
+          "lyrics": "glo -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "ry,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "hal -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "le -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "half",
+          "lyrics": "lu -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "jah!"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "dottedFourth",
+          "lyrics": "Glo -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "eighth",
+          "lyrics": "ry,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "glo -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "sixteenth",
+          "lyrics": "ry,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "hal -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "sixteenth",
+          "lyrics": "le -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "half",
+          "lyrics": " lu -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "jah!"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "dottedFourth",
+          "lyrics": "Glo -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth",
+          "lyrics": "ry,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "dottedEighth",
+          "lyrics": "glo -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "sixteenth",
+          "lyrics": "ry,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedEighth",
+          "lyrics": "hal -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "sixteenth",
+          "lyrics": "le -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "half",
+          "lyrics": "lu -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "jah!"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "His"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "truth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "is"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "march -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "fourth",
+          "lyrics": "ing"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedHalf",
+          "lyrics": "on."
+        }
+      ]
+    }
+  ]
+}

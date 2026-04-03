@@ -1,0 +1,460 @@
+{
+  "title": "Lavenders Blue",
+  "key": "lavenders blue",
+  "time": "3/4",
+  "isChristmas": false,
+  "published": true,
+  "bpm": 100,
+  "tags": [
+    "Folk",
+    "Easy"
+  ],
+  "phrases": [
+    3,
+    7,
+    11,
+    15,
+    19,
+    23,
+    27,
+    31,
+    35,
+    39,
+    43,
+    47
+  ],
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "fourth",
+          "lyrics": "La -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "ven -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "der’s"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "blue,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth",
+          "lyrics": "dil -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth",
+          "lyrics": "ly"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "eighth",
+          "lyrics": "dil -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "eighth",
+          "lyrics": "ly,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "fourth",
+          "lyrics": "la -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "ven -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "der’s"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "dottedHalf",
+          "lyrics": "green,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "fourth",
+          "lyrics": "When"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "I"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "am"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "king,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth",
+          "lyrics": "dil -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth",
+          "lyrics": "ly"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "eighth",
+          "lyrics": "dil -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "eighth",
+          "lyrics": "ly,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "fourth",
+          "lyrics": "you"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "shall"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "fourth",
+          "lyrics": "be"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "dottedHalf",
+          "lyrics": "queen."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "fourth",
+          "lyrics": "Who"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "told"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "you"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "so,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth",
+          "lyrics": "dil -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth",
+          "lyrics": "ly"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "eighth",
+          "lyrics": "dil -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "eighth",
+          "lyrics": "ly,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "fourth",
+          "lyrics": "who"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "told"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "you"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "dottedHalf",
+          "lyrics": "so?"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "fourth",
+          "lyrics": "‘Twas"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "my"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "own"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "heart,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth",
+          "lyrics": "dil -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth",
+          "lyrics": "ly"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "eighth",
+          "lyrics": "dil -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "eighth",
+          "lyrics": "ly,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "fourth",
+          "lyrics": "that"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "told"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "fourth",
+          "lyrics": "me"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "dottedHalf",
+          "lyrics": "so."
+        }
+      ]
+    }
+  ]
+}
