@@ -1,0 +1,1092 @@
+{
+  "title": "Tavaszi szél vizet áraszt",
+  "key": "tavaszi-szel-vizet-araszt-ketszolamu",
+  "time": "4/4",
+  "isChristmas": false,
+  "published": true,
+  "tags": [
+    "Folk",
+    "Advanced"
+  ],
+  "origin": "Hungarian",
+  "locale": "hu",
+  "phrases": [
+    13,
+    25,
+    39,
+    99
+  ],
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "Ta -"
+        },
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "C"
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "va -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "szi"
+        },
+        {
+          "note": "c",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "szél"
+        },
+        {
+          "note": "g",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "vi -"
+        },
+        {
+          "note": "d",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Dm",
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "ze -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "t"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "á -"
+        },
+        {
+          "note": "c",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "C"
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "raszt,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "vi -"
+        },
+        {
+          "note": "c",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "C",
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "rá -"
+        },
+        {
+          "note": "g",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "gom"
+        },
+        {
+          "note": "d",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Dm"
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "vi -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "rá -"
+        },
+        {
+          "note": "c",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "C"
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "half",
+          "lyrics": "gom."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "min -"
+        },
+        {
+          "note": "a",
+          "time": "eighth"
+        },
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Am"
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "den"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "ma -"
+        },
+        {
+          "note": "c",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "C"
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "dár"
+        },
+        {
+          "note": "g",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "tár -"
+        },
+        {
+          "note": "d",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Dm"
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "sa -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "t"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "vá -"
+        },
+        {
+          "note": "c",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Am"
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "laszt,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "vi -"
+        },
+        {
+          "note": "d",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Dm",
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "rá -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "gom"
+        },
+        {
+          "note": "c",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "C"
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "fourth",
+          "lyrics": "vi -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "rá -"
+        },
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "half",
+          "lyrics": "gom."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c2",
+          "time": "eighth"
+        },
+        {
+          "note": "a",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Am"
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth"
+        },
+        {
+          "note": "c2",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth"
+        },
+        {
+          "note": "c2",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth"
+        },
+        {
+          "note": "a1",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "F"
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth"
+        },
+        {
+          "note": "a1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth"
+        },
+        {
+          "note": "a1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth"
+        },
+        {
+          "note": "c2",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Am",
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth"
+        },
+        {
+          "note": "c2",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c2",
+          "time": "eighth"
+        },
+        {
+          "note": "a",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth"
+        },
+        {
+          "note": "a1",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "F"
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth"
+        },
+        {
+          "note": "a1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f",
+          "time": "eighth"
+        },
+        {
+          "note": "a1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth"
+        },
+        {
+          "note": "c",
+          "time": "eighth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "C",
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth"
+        },
+        {
+          "note": "g1",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth"
+        },
+        {
+          "note": "c1",
+          "time": "fourth"
+        },
+        {
+          "note": "e",
+          "time": "fourth"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Am"
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "half"
+        },
+        {
+          "note": "c1",
+          "time": "half"
+        },
+        {
+          "note": "e1",
+          "time": "half"
+        },
+        {
+          "note": "a1",
+          "time": "half"
+        },
+        {
+          "note": "c2",
+          "time": "half"
+        },
+        {
+          "note": "e2",
+          "time": "half"
+        }
+      ],
+      "sectionStart": true,
+      "sectionLabel": "Am - G - C"
+    },
+    {
+      "notes": [
+        {
+          "note": "b1",
+          "time": "half"
+        },
+        {
+          "note": "g1",
+          "time": "half"
+        },
+        {
+          "note": "d2",
+          "time": "half"
+        },
+        {
+          "note": "g",
+          "time": "half"
+        },
+        {
+          "note": "b",
+          "time": "half"
+        },
+        {
+          "note": "d1",
+          "time": "half"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth"
+        },
+        {
+          "note": "e1",
+          "time": "fourth"
+        },
+        {
+          "note": "c1",
+          "time": "fourth"
+        },
+        {
+          "note": "c2",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b1",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a1",
+          "time": "fourth"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b1",
+          "time": "fourth"
+        }
+      ]
+    }
+  ]
+}

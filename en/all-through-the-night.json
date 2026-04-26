@@ -1,0 +1,499 @@
+{
+  "title": "All Through the Night",
+  "key": "all-through-the-night",
+  "time": "4/4",
+  "isChristmas": false,
+  "published": true,
+  "bpm": 100,
+  "tags": [
+    "Folk",
+    "Easy",
+    "Lullaby"
+  ],
+  "origin": "Welsh",
+  "phrases": [
+    2,
+    7,
+    11,
+    15,
+    19,
+    23,
+    27,
+    31,
+    34,
+    39,
+    43,
+    47,
+    51
+  ],
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedFourth",
+          "lyrics": "Sleep,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "eighth",
+          "lyrics": "my"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "child,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "and"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedFourth",
+          "lyrics": "peace"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "at -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "fourth",
+          "lyrics": "tend"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "thee,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "half",
+          "lyrics": "All"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "dottedFourth",
+          "lyrics": "through"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "eighth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "full",
+          "lyrics": "night."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedFourth",
+          "lyrics": "Guar -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "eighth",
+          "lyrics": "dian"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "an -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "gels"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedFourth",
+          "lyrics": "God"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "will"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "fourth",
+          "lyrics": "lend"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "thee,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "half",
+          "lyrics": "All"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "dottedFourth",
+          "lyrics": "through"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "eighth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "full",
+          "lyrics": "night."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "fourth",
+          "lyrics": "Soft,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "fourth",
+          "lyrics": "drow -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "sy"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a1",
+          "time": "fourth",
+          "lyrics": "hours"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "are"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "fourth",
+          "lyrics": "creep -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "ing"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "dottedFourth",
+          "lyrics": "Hill"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "and"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "vale"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "in"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedFourth",
+          "lyrics": "slum -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "ber"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "sleep -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "fourth",
+          "lyrics": "ing,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedFourth",
+          "lyrics": "I,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "eighth",
+          "lyrics": "my"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "lone -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "ly"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "dottedFourth",
+          "lyrics": "vi -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "gil"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "fourth",
+          "lyrics": "keep -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "ing,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "half",
+          "lyrics": "All"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "dottedFourth",
+          "lyrics": "through"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "eighth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "full",
+          "lyrics": "night."
+        }
+      ]
+    }
+  ]
+}

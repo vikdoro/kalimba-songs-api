@@ -1,0 +1,441 @@
+{
+  "title": "The Water Is Wide",
+  "key": "the water is wide",
+  "time": "4/4",
+  "isChristmas": false,
+  "published": true,
+  "bpm": 100,
+  "tags": [
+    "Folk",
+    "Classical"
+  ],
+  "origin": "English",
+  "phrases": [
+    4,
+    10,
+    16,
+    22,
+    27,
+    34,
+    39,
+    46
+  ],
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "The"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "wa -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "ter"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "is"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "dottedHalf",
+          "lyrics": "wide,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "I"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "can -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "not"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "cross"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "full",
+          "lyrics": "o’er."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "And"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "nei -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "ther"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "b",
+          "time": "fourth",
+          "lyrics": "have"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "full",
+          "lyrics": "I"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "the"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "wings"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "to"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "_"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "full",
+          "lyrics": "fly."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "Build"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "me"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "fourth",
+          "lyrics": "a"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "full",
+          "lyrics": "boat"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "that"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "can"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "car -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "ry"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "_"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "full",
+          "lyrics": "two,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "And"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "both"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "fourth",
+          "lyrics": "shall"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "full",
+          "lyrics": "row,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "eighth",
+          "lyrics": "My"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "eighth",
+          "lyrics": "true"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "love"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a",
+          "time": "eighth",
+          "lyrics": "and"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "eighth",
+          "lyrics": "_"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "dottedHalf",
+          "lyrics": "I."
+        }
+      ]
+    }
+  ]
+}

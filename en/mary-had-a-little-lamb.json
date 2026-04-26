@@ -1,0 +1,258 @@
+{
+  "title": "Mary Had a Little Lamb",
+  "key": "mary-had-a-little-lamb",
+  "time": "4/4",
+  "isChristmas": false,
+  "published": true,
+  "bpm": 138,
+  "tags": [
+    "Folk",
+    "Easy"
+  ],
+  "origin": "American",
+  "phrases": [
+    3,
+    6,
+    9,
+    11,
+    18,
+    24,
+    25
+  ],
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "dottedFourth",
+          "lyrics": "Mar -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "eighth",
+          "lyrics": "y"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "fourth",
+          "lyrics": "had"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "fourth",
+          "lyrics": "a"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "lit -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "tle"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "half",
+          "lyrics": "lamb,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "fourth",
+          "lyrics": "lit -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "fourth",
+          "lyrics": "tle"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "half",
+          "lyrics": "lamb,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "lit -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "tle"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "half",
+          "lyrics": "lamb,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "dottedFourth",
+          "lyrics": "Mar -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "eighth",
+          "lyrics": "y"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "fourth",
+          "lyrics": "had"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "fourth",
+          "lyrics": "a"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "lit -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "tle"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "lamb"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "Its"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "fourth",
+          "lyrics": "fleece"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "fourth",
+          "lyrics": "was"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e",
+          "time": "fourth",
+          "lyrics": "white"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d",
+          "time": "fourth",
+          "lyrics": "as"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c",
+          "time": "dottedHalf",
+          "lyrics": "snow"
+        }
+      ]
+    }
+  ]
+}

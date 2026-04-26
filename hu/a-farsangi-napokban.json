@@ -1,0 +1,357 @@
+{
+  "title": "A farsangi napokban",
+  "key": "a-farsangi-napokban",
+  "time": "2/4",
+  "isChristmas": false,
+  "published": true,
+  "tags": [
+    "Folk"
+  ],
+  "origin": "Hungarian",
+  "locale": "hu",
+  "phrases": [
+    2,
+    10,
+    17,
+    24,
+    27,
+    35
+  ],
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "A,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "a,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "a,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "a"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "far -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "san -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "gi"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "na -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "pok -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "ban."
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "eighth",
+          "lyrics": "A"
+        }
+      ],
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "eighth",
+          "lyrics": "far -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a1",
+          "time": "eighth",
+          "lyrics": "san -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "eighth",
+          "lyrics": "gi"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "na -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "pok -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "fourth",
+          "lyrics": "ban,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "Le -"
+        }
+      ],
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "gyünk"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "eighth",
+          "lyrics": "mi"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "is"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "ví -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "gab -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "ban"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "A,"
+        }
+      ],
+      "rowBreakBefore": [
+        "a5",
+        "a4"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g",
+          "time": "fourth",
+          "lyrics": "a,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "a,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "rest",
+          "time": "fourthRest"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "a"
+        }
+      ],
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "far -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "san -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "eighth",
+          "lyrics": "gi"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "na -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "eighth",
+          "lyrics": "pok -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "ban."
+        }
+      ]
+    }
+  ]
+}

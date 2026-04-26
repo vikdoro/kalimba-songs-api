@@ -1,0 +1,269 @@
+{
+  "title": "Hopp, Juliska",
+  "key": "hopp-juliska",
+  "time": "4/4",
+  "isChristmas": false,
+  "published": true,
+  "bpm": 110,
+  "tags": [
+    "Folk"
+  ],
+  "origin": "Hungarian",
+  "locale": "hu",
+  "phrases": [
+    3,
+    7,
+    12,
+    16,
+    21,
+    25
+  ],
+  "entries": [
+    {
+      "notes": [
+        {
+          "note": "c2",
+          "time": "fourth",
+          "lyrics": "Hopp,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "Ju -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "lis -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "ka,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c2",
+          "time": "fourth",
+          "lyrics": "hopp,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "Ma -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "ris -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "e1",
+          "time": "fourth",
+          "lyrics": "ka,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "fourth",
+          "lyrics": "sej,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "gye -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "eighth",
+          "lyrics": "re"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a1",
+          "time": "fourth",
+          "lyrics": "vé -"
+        }
+      ],
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "lem"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "egy"
+        }
+      ],
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "pár"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "tán -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "cra,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "fourth",
+          "lyrics": "sej,"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "f1",
+          "time": "eighth",
+          "lyrics": "gye -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "eighth",
+          "lyrics": "re"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "a1",
+          "time": "fourth",
+          "lyrics": "vé -"
+        }
+      ],
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "g1",
+          "time": "fourth",
+          "lyrics": "lem"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "egy"
+        }
+      ],
+      "rowBreakBefore": [
+        "a5"
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "pár"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "d1",
+          "time": "fourth",
+          "lyrics": "tán -"
+        }
+      ]
+    },
+    {
+      "notes": [
+        {
+          "note": "c1",
+          "time": "fourth",
+          "lyrics": "cra."
+        }
+      ]
+    }
+  ]
+}
